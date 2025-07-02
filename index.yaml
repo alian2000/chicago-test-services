@@ -3,11 +3,11 @@ entries:
   chicago-test-services:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2025-07-02T16:46:18.181191967-05:00"
+    created: "2025-07-02T16:54:46.506685326-05:00"
     description: A Helm chart for my service
-    digest: 92f5c655555bb71795b700aac0bc5a0a014c884008e0b7127d22792677eafa9f
+    digest: 6f6040f48bebca1ccf867ee86c86d83cac1871e253a2a049a71732bca09994fb
     name: chicago-test-services
     urls:
     - https://alian2000.github.io/chicago-test-services/chicago-test-services-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-02T16:46:18.180530569-05:00"
+generated: "2025-07-02T16:54:46.505075288-05:00"
