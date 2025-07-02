@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2025-07-02T16:28:49.469812244-05:00"
+entries:
+  chicago-test-services:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-07-02T16:44:41.517351248-05:00"
+    description: A Helm chart for my service
+    digest: 92f5c655555bb71795b700aac0bc5a0a014c884008e0b7127d22792677eafa9f
+    name: chicago-test-services
+    urls:
+    - https://alian2000.github.io/chicago-test-services/chicago-test-services-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-02T16:44:41.51665724-05:00"
